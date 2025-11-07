@@ -1,0 +1,3 @@
+IMAGEKIT_PRIVATE_KEY=private_eub8aITt0fdtrVaD6H1wM6Ng1es=
+IMAGEKIT_PUBLIC_KEY=public_a2BCw8mc5AVqXu1nSO94WZ9KxN4=
+IMAGEKIT_URL=https://ik.imagekit.io/jkmalra
