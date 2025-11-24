@@ -57,3 +57,4 @@ def get_post(id: int):
 
 # LEARN ALL HAVE DONE NOT ONLY SEE BUT DO IT YOURSELF AND READ DOCS AND OTHER RELATED STUFF THAT NEEDED
 # AFTER THAT START QUERY PARAMETER
+# Added practice of python programming then continue this project this night: 24th nov
